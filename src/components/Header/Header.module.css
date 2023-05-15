@@ -1,0 +1,17 @@
+/*The below is the wrapper container for the header*/
+.headerContainer{
+    position: relative;
+    top: 200px;
+    text-align: center;
+}
+
+/* The below removes the dots in the list */
+.headerContainer ul{
+    list-style-type: none;
+}
+
+.navContainer{
+    text-align:left;
+    max-width: 500px;
+    margin: 0 auto;
+}
